@@ -1,0 +1,54 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px; /* Ajuste a altura conforme necessário */
+  }
+  
+  .login-title {
+    font-size: 2em;
+    text-transform: uppercase;
+  }
+  
+  .login-input {
+    width: 200px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .login-input::placeholder {
+    font-style: italic;
+  }
+  
+  .password-label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .mostrar-senha-button {
+    margin-left: 5px;
+    padding: 5px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  
+  .login-button {
+    width: 150px;
+    height: 40px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .cadastrar-button {
+    margin-top: 10px;
+    /* Defina estilos para o botão de cadastro (opcional) */
+  }
+  
