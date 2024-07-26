@@ -1,2 +1,2 @@
 # Desafio-Full-Stack---Neki
-Desafio Tecnico Neki Frontens e Backend
+Desafio Tecnico Neki Frontend e Backend
